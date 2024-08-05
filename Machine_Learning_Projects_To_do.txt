@@ -1,0 +1,37 @@
+1. Predict Taxi Fares with Random Forests
+2. Classify Songs Genres from Audio Data
+3. Predict Credit Card Approvals 
+4. Store Sales
+5. Give Life: Predict Blood Donations
+                     
+###############  INTERMEDIATE  ###############
+
+6. The Impact Of Climate Change on Birds
+7. Find Movie Similarity from Plot Summaries
+8. The Hottest Topics IN Machine Learning 
+9. Naive Bees: Predict Species from Images
+10. Speech Emotion Recognition with Librosa
+
+###############  ADVANCED  ###############
+
+11. Build Rick Sanchez Bot Using Transformers 
+12. ASL Recognition with Deep Learning 
+13. Naive Bees: Deep Learning with Images
+14. Stock Market Analysis and Forecasting Using Deep Learning
+15. Reinforcement Learning for Connect X
+
+###############  Final Year  ###############
+
+16. Multi-lingual ASR With Transformers
+17. One short Face Stylization 
+18. H&M Personalized Fashion Recommendations
+19. Reinforcement Learning Agent for Atari 2600
+20. MLOps End-To-End Machine Learning
+
+###############  Portfolio Building  ###############
+
+21. BERT Text Classifier on Tensor Processing Unit 
+22. Image Classification Using Julia
+23. Image Caption Generator 
+24. Generate Music using Neural Network
+25. Deploying Machine Learning Application to The Production
