@@ -1,12 +1,12 @@
 <h2>GEN1_AI 🌐💡</h2>
-GEN1_AI is a multifaceted exploration into the realms of artificial intelligence, encompassing machine learning, neural networks, and computer vision. This project is built to push the boundaries of AI technology through a series of experiments and practical implementations.<br>
+GEN1_AI is a multifaceted exploration into the realms of artificial intelligence, encompassing machine learning, neural networks, and computer vision. This project is built to push the boundaries of AI technology through a series of experiments and practical implementations. 
 
 <h3>🚀 Project Overview </h3>
 <p>This repository combines theoretical learning with AI applications. The goal of GEN1_AI is to apply AI algorithms across various domains, including:
 
 Machine Learning: Developing predictive models and understanding data patterns.
 Neural Networks: Designing deep learning architectures for advanced AI tasks.
-Computer Vision: Enabling machines to interpret and process visual data.</p><br>
+Computer Vision: Enabling machines to interpret and process visual data.</p> 
 
 <h3>📂 Folder Structure</h3>
 <p></p>Practice: Contains basic AI experiments that build foundational knowledge in machine learning, neural networks, and computer vision.
@@ -21,11 +21,11 @@ Model Design: Architectures for neural networks, from basic to advanced.
 Training Data: Datasets used to train these models, including image data for computer vision tasks.
 Targets: A list of ongoing goals and milestones related to improving AI models and exploring new techniques.
 
-<h3>⚙️ Tech Stack</h3><br>
+<h3>⚙️ Tech Stack</h3> 
 Python: The core language for building machine learning models and neural networks.
 TensorFlow/Keras: Used for designing and training neural networks.
 OpenCV: For handling computer vision tasks such as image processing and object detection.
-Jupyter Notebooks: For interactive coding, experiments, and visualization of results.</br>
+Jupyter Notebooks: For interactive coding, experiments, and visualization of results.  
 <h3>🌟 Features</h3>
 Machine Learning Algorithms: Implementation of models such as regression, decision trees, and classification models.
 Neural Networks: From basic feedforward networks to more complex architectures like convolutional neural networks (CNNs) for image processing.
