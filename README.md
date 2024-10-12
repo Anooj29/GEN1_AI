@@ -16,7 +16,6 @@ Projects: AI-driven solutions to real-world problems, such as:<br>
 Classification and Regression Models: Supervised learning models for prediction and classification tasks.<br>
 Object Detection: Computer vision models for detecting and recognizing objects in images.<br>
 NEURA: Neural network-focused implementations, featuring:<br>
-
 Model Design: Architectures for neural networks, from basic to advanced.<br>
 Training Data: Datasets used to train these models, including image data for computer vision tasks.<br>
 Targets: A list of ongoing goals and milestones related to improving AI models and exploring new techniques.<br>
