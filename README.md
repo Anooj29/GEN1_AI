@@ -1,4 +1,4 @@
-GEN1_AI 🌐💡
+<h2>GEN1_AI 🌐💡</h2>
 GEN1_AI is a multifaceted exploration into the realms of artificial intelligence, encompassing machine learning, neural networks, and computer vision. This project is built to push the boundaries of AI technology through a series of experiments and practical implementations.
 
 🚀 Project Overview
