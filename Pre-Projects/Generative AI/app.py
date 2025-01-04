@@ -2,7 +2,7 @@ import tkinter as tk
 import customtkinter as ctk 
 
 from PIL import ImageTk
-#from authtoken import auth_token 
+from authtoken import auth_token 
 
 import torch
 from torch import autocast
@@ -21,7 +21,7 @@ lmain = ctk.CTkLabel(master=app, height=512, width=512)
 lmain.place(x=10, y=110)
 
 modelid = "ComVis/stable-diffusion-v1-4"
-pipe = StableDiffusionPipeline.from_pretrained(modelid, revision="fp16", torch_dtype=torch.float16, use_auto_token = auto_token)
+pipe = StableDiffusionPipeline.from_pretrained(modelid, revision="fp16", torch_dtype=torch.float16, use_auto_token = auth_token)
 
 def generate():
     pass
