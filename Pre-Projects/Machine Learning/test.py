@@ -24,7 +24,7 @@ encoded_countries = encoder.fit_transform(df[["Country"]])
 country_labels = encoder.get_feature_names_out(["Country"])
 
 # Convert to DataFrame
-# df_encoded = pd.DataFrame(encoded_countries, columns=country_labels)
+df_encoded = pd.DataFrame(encoded_countries, columns=country_labels)
 
 # Concatenate with original dataset
 df = pd.concat([df.drop(columns=["Country"]), df_encoded], axis=1)
